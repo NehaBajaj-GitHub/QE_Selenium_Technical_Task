@@ -1,0 +1,12 @@
+com\selenium\pages\basepage\BasePage.class
+com\selenium\driver\Wait.class
+com\selenium\common\ExcelReader$1.class
+com\selenium\pages\lloydspage\LlyodsHomePage.class
+com\selenium\pages\lloydspage\BranchFinderPage.class
+com\selenium\common\CommonFunctions.class
+com\selenium\common\GenerateReport.class
+com\selenium\common\ExcelReader.class
+com\selenium\runner\TestRunner.class
+com\selenium\driver\SetUp.class
+com\selenium\steps\LloydsTests.class
+com\selenium\pages\lloydspage\BranchPage.class

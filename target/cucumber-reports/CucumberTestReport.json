@@ -1,0 +1,1002 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2024-02-22T01:03:53.970Z",
+        "line": 17,
+        "name": "verify product search with names for",
+        "description": "",
+        "id": "search-feature-test;verify-product-search-with-names-for;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3543633800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I\u0027m on Lloyds home page",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_m_on_lloyds_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5857624800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click findBranch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_find_branch()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9028966400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I fill search box from given sheetname \"PostcodeList\" and row number 0",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"PostcodeList\"",
+                  "offset": 39
+                },
+                {
+                  "val": "0",
+                  "offset": 69
+                }
+              ],
+              "location": "com.selenium.steps.LloydsTests.i_fill_search_box_from_given_sheetname_and_row_number(java.lang.String,java.lang.Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2287505000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click searchIcon",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_search_icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1916354100,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I select nearest branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_select_nearest_branch()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 571712100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I get phone number of branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_get_phone_number_of_branch()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Lloyds"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-02-22T01:04:17.529Z",
+        "line": 18,
+        "name": "verify product search with names for",
+        "description": "",
+        "id": "search-feature-test;verify-product-search-with-names-for;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2246327400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I\u0027m on Lloyds home page",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_m_on_lloyds_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2668411400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click findBranch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_find_branch()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3046570600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I fill search box from given sheetname \"PostcodeList\" and row number 1",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"PostcodeList\"",
+                  "offset": 39
+                },
+                {
+                  "val": "1",
+                  "offset": 69
+                }
+              ],
+              "location": "com.selenium.steps.LloydsTests.i_fill_search_box_from_given_sheetname_and_row_number(java.lang.String,java.lang.Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2271931500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click searchIcon",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_search_icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1152895700,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I select nearest branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_select_nearest_branch()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 55263000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I get phone number of branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_get_phone_number_of_branch()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Lloyds"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-02-22T01:04:28.985Z",
+        "line": 19,
+        "name": "verify product search with names for",
+        "description": "",
+        "id": "search-feature-test;verify-product-search-with-names-for;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1500112900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I\u0027m on Lloyds home page",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_m_on_lloyds_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3665103400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click findBranch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_find_branch()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3000791900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I fill search box from given sheetname \"PostcodeList\" and row number 2",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"PostcodeList\"",
+                  "offset": 39
+                },
+                {
+                  "val": "2",
+                  "offset": 69
+                }
+              ],
+              "location": "com.selenium.steps.LloydsTests.i_fill_search_box_from_given_sheetname_and_row_number(java.lang.String,java.lang.Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2280261100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click searchIcon",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_search_icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1268172300,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I select nearest branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_select_nearest_branch()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 231878000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I get phone number of branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_get_phone_number_of_branch()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Lloyds"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-02-22T01:04:40.944Z",
+        "line": 20,
+        "name": "verify product search with names for",
+        "description": "",
+        "id": "search-feature-test;verify-product-search-with-names-for;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1498826600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I\u0027m on Lloyds home page",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_m_on_lloyds_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1847204400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click findBranch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_find_branch()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3007869800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I fill search box from given sheetname \"PostcodeList\" and row number 3",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"PostcodeList\"",
+                  "offset": 39
+                },
+                {
+                  "val": "3",
+                  "offset": 69
+                }
+              ],
+              "location": "com.selenium.steps.LloydsTests.i_fill_search_box_from_given_sheetname_and_row_number(java.lang.String,java.lang.Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2287121900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click searchIcon",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_search_icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1184754100,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I select nearest branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_select_nearest_branch()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 763333100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I get phone number of branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_get_phone_number_of_branch()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Lloyds"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-02-22T01:04:51.544Z",
+        "line": 21,
+        "name": "verify product search with names for",
+        "description": "",
+        "id": "search-feature-test;verify-product-search-with-names-for;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1288188400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I\u0027m on Lloyds home page",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_m_on_lloyds_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2403453300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click findBranch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_find_branch()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3495938800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I fill search box from given sheetname \"PostcodeList\" and row number 4",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"PostcodeList\"",
+                  "offset": 39
+                },
+                {
+                  "val": "4",
+                  "offset": 69
+                }
+              ],
+              "location": "com.selenium.steps.LloydsTests.i_fill_search_box_from_given_sheetname_and_row_number(java.lang.String,java.lang.Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2317002900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click searchIcon",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_search_icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1429159100,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I select nearest branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_select_nearest_branch()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 502170800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I get phone number of branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_get_phone_number_of_branch()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Lloyds"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-02-22T01:05:02.986Z",
+        "line": 22,
+        "name": "verify product search with names for",
+        "description": "",
+        "id": "search-feature-test;verify-product-search-with-names-for;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1824196900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I\u0027m on Lloyds home page",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_m_on_lloyds_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3869458000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click findBranch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_find_branch()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2874984500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I fill search box from given sheetname \"PostcodeList\" and row number 5",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"PostcodeList\"",
+                  "offset": 39
+                },
+                {
+                  "val": "5",
+                  "offset": 69
+                }
+              ],
+              "location": "com.selenium.steps.LloydsTests.i_fill_search_box_from_given_sheetname_and_row_number(java.lang.String,java.lang.Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2625660100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click searchIcon",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_search_icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1582813400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I select nearest branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_select_nearest_branch()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 378947500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I get phone number of branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_get_phone_number_of_branch()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Lloyds"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-02-22T01:05:16.149Z",
+        "line": 23,
+        "name": "verify product search with names for",
+        "description": "",
+        "id": "search-feature-test;verify-product-search-with-names-for;;8",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1272822800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I\u0027m on Lloyds home page",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_m_on_lloyds_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5762996100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click findBranch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_find_branch()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3615042300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I fill search box from given sheetname \"PostcodeList\" and row number 6",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"PostcodeList\"",
+                  "offset": 39
+                },
+                {
+                  "val": "6",
+                  "offset": 69
+                }
+              ],
+              "location": "com.selenium.steps.LloydsTests.i_fill_search_box_from_given_sheetname_and_row_number(java.lang.String,java.lang.Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2303962600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click searchIcon",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_search_icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1261698700,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I select nearest branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_select_nearest_branch()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 397155900,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I get phone number of branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_get_phone_number_of_branch()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Lloyds"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-02-22T01:05:30.770Z",
+        "line": 24,
+        "name": "verify product search with names for",
+        "description": "",
+        "id": "search-feature-test;verify-product-search-with-names-for;;9",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2182349300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I\u0027m on Lloyds home page",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_m_on_lloyds_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4274659100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click findBranch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_find_branch()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2543755000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I fill search box from given sheetname \"PostcodeList\" and row number 7",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"PostcodeList\"",
+                  "offset": 39
+                },
+                {
+                  "val": "7",
+                  "offset": 69
+                }
+              ],
+              "location": "com.selenium.steps.LloydsTests.i_fill_search_box_from_given_sheetname_and_row_number(java.lang.String,java.lang.Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2264748000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click searchIcon",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_search_icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2003931300,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I select nearest branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_select_nearest_branch()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 368456000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I get phone number of branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_get_phone_number_of_branch()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Lloyds"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-02-22T01:05:44.419Z",
+        "line": 25,
+        "name": "verify product search with names for",
+        "description": "",
+        "id": "search-feature-test;verify-product-search-with-names-for;;10",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1277539100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I\u0027m on Lloyds home page",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_m_on_lloyds_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2815661800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click findBranch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_find_branch()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2960377800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I fill search box from given sheetname \"PostcodeList\" and row number 8",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"PostcodeList\"",
+                  "offset": 39
+                },
+                {
+                  "val": "8",
+                  "offset": 69
+                }
+              ],
+              "location": "com.selenium.steps.LloydsTests.i_fill_search_box_from_given_sheetname_and_row_number(java.lang.String,java.lang.Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2600582800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click searchIcon",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_search_icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1681334900,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I select nearest branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_select_nearest_branch()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1039291300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I get phone number of branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_get_phone_number_of_branch()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Lloyds"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-02-22T01:05:56.800Z",
+        "line": 26,
+        "name": "verify product search with names for",
+        "description": "",
+        "id": "search-feature-test;verify-product-search-with-names-for;;11",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2597994600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I\u0027m on Lloyds home page",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_m_on_lloyds_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3301109800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click findBranch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_find_branch()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2773950400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I fill search box from given sheetname \"PostcodeList\" and row number 9",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"PostcodeList\"",
+                  "offset": 39
+                },
+                {
+                  "val": "9",
+                  "offset": 69
+                }
+              ],
+              "location": "com.selenium.steps.LloydsTests.i_fill_search_box_from_given_sheetname_and_row_number(java.lang.String,java.lang.Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2378562500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click searchIcon",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_click_search_icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1276270700,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I select nearest branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_select_nearest_branch()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 211311300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I get phone number of branch",
+            "match": {
+              "location": "com.selenium.steps.LloydsTests.i_get_phone_number_of_branch()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Lloyds"
+          }
+        ]
+      }
+    ],
+    "name": "Search Feature Test",
+    "description": "  As a user\n  I should search and retrieve the relevant products",
+    "id": "search-feature-test",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/Lloyds.feature",
+    "tags": [
+      {
+        "name": "@Lloyds",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
